@@ -8,7 +8,7 @@
 # Hey there, it's a pleasure to meet you! 👋
 
 ### About Me
-Welcome to my world, I a Frontend Developer who loves turning complex ideas into seamless, interactive web experiences. With a strong foundation in React, Next.js, JavaScript, HTML, CSS, and TypeScript, I enjoy building clean, scalable solutions that not only work well but feel great to use. Whether it’s crafting reusable components, optimizing performance, or experimenting with new tools, I thrive on solving problems and pushing projects forward.
+Welcome to my world, I am Frontend Developer who loves turning complex ideas into seamless, interactive web experiences. With a strong foundation in React, Next.js, JavaScript, HTML, CSS, and TypeScript, I enjoy building clean, scalable solutions that not only work well but feel great to use. Whether it’s crafting reusable components, optimizing performance, or experimenting with new tools, I thrive on solving problems and pushing projects forward.
 
 ### Experience
 With 3+ years of experience delivering production-ready web applications, I’ve contributed to projects that blend configuration-driven UIs, reusable design systems, and CMS integration. From implementing Google Tag Manager to boost user conversion, to developing wizard-based forms and shared UI components with accessibility, I’ve built solutions that are reliable, performant, and easy to maintain. Recognized by peers and managers for my adaptability, problem-solving mindset, and collaborative approach, I’m passionate about creating products that make an impact — and constantly leveling up my craft along the way.
