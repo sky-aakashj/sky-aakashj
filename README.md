@@ -1,3 +1,10 @@
+![](https://komarev.com/ghpvc/?username=sky-aakashj&style=for-the-badge)
+<br>
+
+<div>
+ <img alt="Profile Banner" src="https://res.cloudinary.com/dscdhnt4o/image/upload/e_enhance/linkedin_cover_znxlh5">
+</div>
+
 ## Hi there 👋
 
 <!--
